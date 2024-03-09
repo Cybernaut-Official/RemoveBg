@@ -21,9 +21,8 @@ This project is a simple web application built using Flask, a Python web framewo
 - **app.py**: Contains the Flask application code.
 - **templates/**: Contains HTML templates for the web pages.
 
-**Code Explanation:**
+**Resources File:**
 
-For a detailed explanation of the code, please refer to the `code_explanation.pdf` file located in the `resources` folder.
 You can also find the other resources in the `other_resources.txt` file located in the `resources` folder.
 
 **Download the resources:**
