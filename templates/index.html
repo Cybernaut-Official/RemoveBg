@@ -50,14 +50,10 @@
 <body>
     <h1>Background Remover</h1>
     <form action="/remove_bg" method="post" enctype="multipart/form-data">
-        <input type="file" name="image">
+        <input type="file" name="image" required>
         <input type="submit" value="Remove Background">
     </form>
-    {% if result_image %}
-    <a href="{{ result_image }}" download>Download Image</a>
-    {% endif %}
-    {% if error %}
-        <p class="error">{{ error }}</p>
-    {% endif %}
+   
+
 </body>
 </html>
