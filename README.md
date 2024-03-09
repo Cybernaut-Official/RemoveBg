@@ -28,7 +28,7 @@ You can also find the other resources in the `other_resources.txt` file located 
 
 **Download the resources:**
 
-You can also download the resources from here: https://rb.gy/yraydk
+You can also download the resources from here: [Click here to download](http://tiny.cc/cybernaut-diy-python)
 
 (or)
 
