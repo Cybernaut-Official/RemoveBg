@@ -34,7 +34,7 @@ You can also download the resources from here: https://rb.gy/yraydk
 
 Scan this QR Code
 
-<img src="./resource_qr.png" width="200" height="200">
+<img src="./resource_qr.png" width="180" height="200">
 
 
 **Contributing:**
