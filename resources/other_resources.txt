@@ -1,0 +1,7 @@
+Flask Documentation - https://flask.palletsprojects.com/en/3.0.x/
+
+How virtualenv works - https://medium.com/@MatchaLatt3/a-short-simplified-guide-to-what-is-in-a-python-virtual-environment-and-how-it-works-b09592524244
+
+Temp Files - https://safjan.com/mastering-temporary-files-and-directories-with-python-tempfile-module/
+
+Rembg Package - https://pypi.org/project/rembg/
