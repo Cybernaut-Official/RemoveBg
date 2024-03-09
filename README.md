@@ -33,6 +33,7 @@ You can also download the resources from here: https://rb.gy/yraydk
 (or)
 
 Scan this QR Code
+
 ![QR-CODE](./resource_qr.png)
 
 
