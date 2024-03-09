@@ -26,6 +26,11 @@ This project is a simple web application built using Flask, a Python web framewo
 For a detailed explanation of the code, please refer to the `code_explanation.pdf` file located in the `resources` folder.
 You can also find the other resources in the `other_resources.txt` file located in the `resources` folder.
 
+**Download the resources:**
+
+You can download the resources from here: https://rb.gy/yraydk
+
+
 **Contributing:**
 
 Contributions to this project are welcome. Please feel free to submit issues or pull requests.
