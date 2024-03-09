@@ -1,4 +1,4 @@
-## RemoveBg: Background Removal Web App
+## RemoveBg: Background Removal Web App - DIY Python Event
 
 **Description:**
 
