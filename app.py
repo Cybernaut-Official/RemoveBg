@@ -32,9 +32,8 @@ def remove_background():
         return send_file(temp_image.name, as_attachment=True)
     #if any error occurs in try this part will get executed
     except Exception as e:
-        return e
+        return str(e)
     
-    return redirect('/')
 
        
 #this part helps the code to run
